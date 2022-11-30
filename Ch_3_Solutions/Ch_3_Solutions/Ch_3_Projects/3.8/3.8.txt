@@ -1,0 +1,5 @@
+Project 3.8
+
+In the best case, each random number is not in the list, so the in operator is run just once on each pass through the outer loop.  The in operator is linear with the size of the list.  Thus, the number of comparisons in the best case is 0 + 1 + 2 + . . + n or approximately n squared.  So the best case performance is quadratic.
+
+For very large n, the average and worst cases are also quadratic, because there will be very few duplicates, and thus extra passes of the inner loop are required. 

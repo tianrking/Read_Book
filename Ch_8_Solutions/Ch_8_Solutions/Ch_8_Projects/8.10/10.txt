@@ -1,0 +1,1 @@
+A queue would work better than a stack if there were many choice points relatively early in the maze.

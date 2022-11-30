@@ -1,0 +1,9 @@
+Project 5.1
+
+For ArrayBag and LinkedBag, the == operation is O(1) in the best case, when
+
+1. The two bags are identical.
+2. The second argument (other) is not the same type as self.
+3. The two bags do not have the same length.
+
+Otherwise, the worst-case and average running times are O(n * n), for two bags of length n, because the count method, which is linear over n, is run n times.

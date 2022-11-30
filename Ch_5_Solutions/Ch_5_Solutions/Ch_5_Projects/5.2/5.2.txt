@@ -1,0 +1,3 @@
+Project 5.2
+
+For ArrayBag and LinkedBag, the count operation is O(n).  The reason for this is that each item in the bag must be compared to the target item to determine if it should be counted.

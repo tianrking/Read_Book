@@ -1,0 +1,1 @@
+Answers will vary with the student.  Hashing functions might include Python's built-in hash function, an identity function, and the stringHash function.

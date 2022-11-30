@@ -1,0 +1,7 @@
+Project 5.9
+
+The running time of the add method of ArraySorted bag has three cases:
+
+1. O(1), when the item added is greater than or equal to the last item.
+2. O(n), in the worst case, when the item added is less than the first item.
+3. O(n), in the average case, when the item added goes between two items in the bag.

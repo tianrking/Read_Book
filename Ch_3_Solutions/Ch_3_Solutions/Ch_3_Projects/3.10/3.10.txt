@@ -1,0 +1,5 @@
+Project 3.10
+
+The number of calls of factorial is approximately n.  Thus, the complexity of memory usage is O(n).
+
+The number of calls of fibonacci active at any one time never exceeds the maximum depth of the call tree.  Therefore, since this depth is approximately equal to log base 2 of n, the complexity of memory usage is O(log n). 
